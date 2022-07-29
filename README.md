@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @paulycon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested i sl msn
+- 🌱 I’m currently learning sla
+- 💞️ I’m looking to collaborate on nao sei
+- 📫 How to reach me isntagran,paulycon-detona
+
 
 <!---
 paulycon/paulycon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
